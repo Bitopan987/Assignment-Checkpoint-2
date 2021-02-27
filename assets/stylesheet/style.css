@@ -61,8 +61,8 @@ a {
 
 .header {
   text-align: center;
-  background: linear-gradient(to top, #4171b4b3, #a3a2a2b3),
-    url(/AC-STYLE-checkpoint-2/assets/media/banner.jpg);
+  background: linear-gradient(to top, #3d567cb3, #4b4646b3),
+    url(../media/banner.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   padding: 1rem 0 11.5rem 0;
